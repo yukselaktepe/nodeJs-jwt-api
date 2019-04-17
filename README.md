@@ -4,5 +4,5 @@ Quick Start
 # Install dependencies
 npm install
 
-# Serve on localhost:3000
+# Server on localhost:5555
 npm start
