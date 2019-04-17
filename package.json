@@ -1,0 +1,13 @@
+{
+    "name": "nodejsapi",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4",
+        "express-session": "^1.15.6",
+        "jsonwebtoken": "^8.5.1"
+    }
+}
